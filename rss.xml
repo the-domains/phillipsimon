@@ -2,10 +2,10 @@
     <channel>
         <title><![CDATA[phillipsimon]]></title>
         <description><![CDATA[phillipsimon]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phillipsimon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 13:36:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 13:40:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phillipsimon/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Me]]></title>
             <description><![CDATA[<article><h1>Me</h1><p>Phillip Simon has always been a photographer. He fulfilled his childhood fantasy of using fancy cameras when he got his first 35 mm film camera at the age of 13. As a printmaking major at the University of the Arts in Philadelphia, Phillip combined photography with traditional printmaking techniques.
@@ -14,10 +14,10 @@ In the eighties and nineties Phillip created sound and multi-image design for da
 
 In 2000 he completed a Master of Arts in Liberal Studies degree from Wesleyan University where he explored the visual relationship between digital photography and traditional drawing.
 
-Phillip Simon works at Quinnipiac University in Hamden, Connecticut, as the Director of the Interactive Media Master’s Program in the School of Communications. Prior to starting at Quinnipiac in 2009, Phillip spent 22 years at Yale University. He finished his tenure at Yale as a Web program designer and on-line educational specialist.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c3273b87-537f-41d4-b966-b866d562997a.jpg"></article>]]></description>
-            <link>undefinedme/index.html</link>
+Phillip Simon works at Quinnipiac University in Hamden, Connecticut, as the Director of the Interactive Media Master’s Program in the School of Communications. Prior to starting at Quinnipiac in 2009, Phillip spent 22 years at Yale University. He finished his tenure at Yale as a Web program designer and on-line educational specialist.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83034cf39b672ba682dc090504b3f070bafe65cf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/phillipsimon/me/index.html</link>
             <guid isPermaLink="false">b97552c1-8ade-4507-9986-9a24f76d7a26</guid>
-            <pubDate>Sat, 16 Jan 2016 13:36:27 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 13:39:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
