@@ -1,0 +1,28 @@
+name: phillipsimon
+favicon: null
+layout_spectrum: 0.40669488720595837
+typography_spectrum: 0.5926243488211185
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07418792159296572
+  lightness: 0.5279854270629585
+  saturation: 0.883636278565973
+  rhythmicContrast: 0.5576790745835751
+purpose: []
